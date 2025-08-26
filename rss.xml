@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>EYI Data Solutions Blog</title>
+    <link>https://www.eyidatasolutions.com/blog.html</link>
+    <description>Insights from EYI Data Solutions Ltd</description>
+    <language>en-gb</language>
+    <item>
+      <title>5 KPIs Every Executive Dashboard Needs</title>
+      <link>https://www.eyidatasolutions.com/blog/executive-kpis.html</link>
+      <guid>https://www.eyidatasolutions.com/blog/executive-kpis.html</guid>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 GMT</pubDate>
+      <description>From revenue quality to ops velocity, start with the metrics that drive outcomes.</description>
+    </item>
+    <item>
+      <title>Bank Reconciliation: From Manual to Automated</title>
+      <link>https://www.eyidatasolutions.com/blog/reconciliation-automation.html</link>
+      <guid>https://www.eyidatasolutions.com/blog/reconciliation-automation.html</guid>
+      <pubDate>Fri, 02 May 2025 12:00:00 GMT</pubDate>
+      <description>How matching rules, exception queues and audit trails save time and reduce risk.</description>
+    </item>
+    <item>
+      <title>Explainable AI in Credit Decisions</title>
+      <link>https://www.eyidatasolutions.com/blog/xai-credit.html</link>
+      <guid>https://www.eyidatasolutions.com/blog/xai-credit.html</guid>
+      <pubDate>Wed, 02 Apr 2025 12:00:00 GMT</pubDate>
+      <description>Bring transparency and trust to model‑assisted approvals using SHAP.</description>
+    </item>
+  </channel>
+</rss>

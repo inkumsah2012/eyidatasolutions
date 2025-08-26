@@ -1,0 +1,1 @@
+Place your hero video at: assets/hero.mp4 (10–20s, 1920x1080, muted, loop).

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Data Analyst (Power BI)",
+    "description": "Build dashboards, define KPIs, automate reporting.",
+    "apply": "Send CV + portfolio links to contact@eyidatasolutions.com",
+    "location": "Remote/Hybrid",
+    "type": "Full-time",
+    "posted": "2025-08-01",
+    "apply_url": "mailto:contact@eyidatasolutions.com?subject=Application%3A%20Data%20Analyst%20%28Power%20BI%29"
+  },
+  {
+    "title": "Data Scientist (Python/SQL)",
+    "description": "Predictive models, time\u2011series, XAI, deployment basics.",
+    "apply": "Send CV + GitHub to contact@eyidatasolutions.com",
+    "location": "Remote/Hybrid",
+    "type": "Full-time",
+    "posted": "2025-08-01",
+    "apply_url": "mailto:contact@eyidatasolutions.com?subject=Application%3A%20Data%20Scientist%20%28Python/SQL%29"
+  },
+  {
+    "title": "Finance Analytics Specialist",
+    "description": "Bank reconciliation automation, exception workflows, audit packs.",
+    "apply": "Send CV to contact@eyidatasolutions.com",
+    "location": "Remote/Hybrid",
+    "type": "Full-time",
+    "posted": "2025-08-01",
+    "apply_url": "mailto:contact@eyidatasolutions.com?subject=Application%3A%20Finance%20Analytics%20Specialist"
+  }
+]
